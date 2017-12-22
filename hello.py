@@ -29,3 +29,5 @@ bad_mayo = groceries.index("Mayo")
 groceries[bad_mayo] = "Mustard"
 
 print(groceries)
+
+print(":'(")
